@@ -1,3 +1,11 @@
+---
+toc: true
+layout: post
+description: Weekly review 09/27/2020.
+categories: [markdown]
+title: Weekly Review 1
+---
+
 # Weekly Review #1
 
 ## What is this?
