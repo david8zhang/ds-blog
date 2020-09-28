@@ -44,7 +44,7 @@ This is a review of what I did. As per the name, you can probably guess this wil
 
 - Guild Manager v.2 is exciting. I've been thinking about it all week. The question is whether I attempt to build it on Unity v.s. React. (I've been leaning towards React)
 
-  - Guild Manager v.2 might be the "hobby" project that I put like 2/3 hours a week into, using ol' reliable React.JS
+  - Guild Manager v.2 might be the "hobby" project that I put like 2/3 hours a week into, using ol' reliable React.JS. (**OR** - React Native?!?!?)
   - Might use Unity for a smaller scale game project
 
   |       | Development Speed | Learning | Overall Enjoyment | Flexibility | Total |
