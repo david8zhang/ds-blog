@@ -12,9 +12,9 @@ This is a review of what I did. As per the name, you can probably guess this wil
 
 - Drew some cool ship sprites for Pirate Manager, a tycoon like game/prototype that I'm currently hacking on in Unity. Check em out below:
 
-  ![sloop](./images/20200927/sloop.png)
-  ![caravel](./images/20200927/caravel.png)
-  ![galleon](./images/20200927/Galleon.png)
+  ![sloop](../images/20200927/sloop.png)
+  ![caravel](../images/20200927/caravel.png)
+  ![galleon](../images/20200927/Galleon.png)
 
 - Finished Lecture 3 and 4 of fast.ai. I sort of understand most of it.
 
