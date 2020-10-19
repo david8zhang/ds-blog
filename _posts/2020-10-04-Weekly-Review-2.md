@@ -6,7 +6,7 @@ categories: [markdown]
 title: Weekly Review 2
 ---
 
-# Weekly Review #1
+# Weekly Review #2
 
 ## Wins
 
