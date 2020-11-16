@@ -6,7 +6,7 @@ categories: [markdown]
 title: Weekly Review 7
 ---
 
-# Weekly Review #6
+# Weekly Review #7
 
 ## Wins
 
@@ -14,8 +14,8 @@ title: Weekly Review 7
 
 ## Losses
 
-- Didn't achieve the goal I set for last week, to complete the match logic
-- Didn't exercise enough at all
+- Didn't achieve the goal I set for last week, to complete the match logic implementation on Guild Manager v.2
+- Didn't exercise enough
 
 ## Opportunities
 
