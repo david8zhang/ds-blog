@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://david8zhang.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8zhang.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-11-30T11:11:27-06:00</updated><id>https://david8zhang.github.io/ds-blog/feed.xml</id><title type="html">David’s Data World</title><subtitle>The best place for bad ideas</subtitle><entry><title type="html">Weekly Review 10</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/11/29/Weekly-Review-10.html" rel="alternate" type="text/html" title="Weekly Review 10" /><published>2020-11-29T00:00:00-06:00</published><updated>2020-11-29T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/11/29/Weekly-Review-10</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/11/29/Weekly-Review-10.html">&lt;h1 id=&quot;weekly-review-10&quot;&gt;Weekly Review #10&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://david8zhang.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8zhang.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-12-07T11:17:40-06:00</updated><id>https://david8zhang.github.io/ds-blog/feed.xml</id><title type="html">David’s Data World</title><subtitle>The best place for bad ideas</subtitle><entry><title type="html">Weekly Review 11</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/06/Weekly-Review-11.html" rel="alternate" type="text/html" title="Weekly Review 11" /><published>2020-12-06T00:00:00-06:00</published><updated>2020-12-06T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/06/Weekly-Review-11</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/06/Weekly-Review-11.html">&lt;h1 id=&quot;weekly-review-11&quot;&gt;Weekly Review #11&lt;/h1&gt;
+
+&lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exceeded goals on Guild Manager v.2
+    &lt;ul&gt;
+      &lt;li&gt;Added Ranged Attackers&lt;/li&gt;
+      &lt;li&gt;Added defensive buffs&lt;/li&gt;
+      &lt;li&gt;Added post match stat bonuses&lt;/li&gt;
+      &lt;li&gt;Added images for each team&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;losses&quot;&gt;Losses&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Still didn’t exercise, didn’t even run&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;opportunities&quot;&gt;Opportunities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Got a pull up bar&lt;/li&gt;
+  &lt;li&gt;Started reading game design patterns book&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;goals-for-this-week&quot;&gt;Goals for this week&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Guild Manager v.2&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Add superstars for some guilds&lt;/li&gt;
+      &lt;li&gt;View rosters for all teams&lt;/li&gt;
+      &lt;li&gt;Save hero stats after match is over&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start using Outwork for 5 exercises:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Push-ups&lt;/li&gt;
+      &lt;li&gt;Pull ups&lt;/li&gt;
+      &lt;li&gt;Crunches&lt;/li&gt;
+      &lt;li&gt;Burpees&lt;/li&gt;
+      &lt;li&gt;Squats&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;extra-notes&quot;&gt;Extra Notes&lt;/h2&gt;
+
+&lt;p&gt;I worked on push up bank mockups this week, but realized I’d probably never use it. I already have Outwork as a workout tracking app, so I should just use that instead. I haven’t exercised in 2 weeks now.&lt;/p&gt;
+
+&lt;p&gt;Guild Manager v.2 is progressing nicely and I’m having fun working on it. Seems like every week I exceed expectations on what I want to get done. I’m reading the Game Design Patterns book I bought a few months ago and I’m enjoying it.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #11</summary></entry><entry><title type="html">Weekly Review 10</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/11/29/Weekly-Review-10.html" rel="alternate" type="text/html" title="Weekly Review 10" /><published>2020-11-29T00:00:00-06:00</published><updated>2020-11-29T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/11/29/Weekly-Review-10</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/11/29/Weekly-Review-10.html">&lt;h1 id=&quot;weekly-review-10&quot;&gt;Weekly Review #10&lt;/h1&gt;
 
 &lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
 
@@ -430,145 +486,4 @@
 
 &lt;ul&gt;
   &lt;li&gt;This blog post came late because I was moving. Also haven’t really slept that well at night, which has been negatively impacting my morning productivity. But I’ll ramp up eventually to where I was before&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #2</summary></entry><entry><title type="html">Weekly Review 1</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/09/27/Weekly-Review-1.html" rel="alternate" type="text/html" title="Weekly Review 1" /><published>2020-09-27T00:00:00-05:00</published><updated>2020-09-27T00:00:00-05:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/09/27/Weekly-Review-1</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/09/27/Weekly-Review-1.html">&lt;h1 id=&quot;weekly-review-1&quot;&gt;Weekly Review #1&lt;/h1&gt;
-
-&lt;h2 id=&quot;what-is-this&quot;&gt;What is this?&lt;/h2&gt;
-
-&lt;p&gt;This is a review of what I did. As per the name, you can probably guess this will cover the past week. I’m aiming to do this every week as a way to take a step back and reflect. I’m aiming to make it as simple as possible by breaking it down into 3 sections: Wins, Losses, Opportunities&lt;/p&gt;
-
-&lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Launched the data science blog that you’re currently reading and published my first post about &lt;a href=&quot;https://david8zhang.github.io/ds-blog/2020/09/23/See-Food.html&quot;&gt;SeeFood&lt;/a&gt;. &lt;em&gt;Warning&lt;/em&gt;: it’s got a lot of bad memes. I was in a funky state of mind, I guess.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Built SeeFood (wrote a blog post about it above). This was part of the Fast.AI lecture 3 “homework”, to take the ResNet image classifier and customize it within a web application&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Drew some cool ship sprites for Pirate Manager, a tycoon like game/prototype that I’m currently hacking on in Unity. Check em out below:&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;../images/20200927/sloop.png&quot; alt=&quot;sloop&quot; /&gt;
-&lt;img src=&quot;../images/20200927/caravel.png&quot; alt=&quot;caravel&quot; /&gt;
-&lt;img src=&quot;../images/20200927/Galleon.png&quot; alt=&quot;galleon&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finished Lecture 3 and 4 of fast.ai. I sort of understand most of it.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Actually ran a lot of the stuff in Lecture 3 (voila, binder, Bing Image API).&lt;/li&gt;
-      &lt;li&gt;Got kind of bored in lecture 4 (the data ethics one). Kinda skipped through it&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Started working on a Next.JS prototype of the &lt;em&gt;new&lt;/em&gt; FlockTogether&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Finished putting together the create trip form (wasn’t so hard)&lt;/li&gt;
-      &lt;li&gt;Built out a basic version of invite friends section&lt;/li&gt;
-      &lt;li&gt;Built a custom calendar in the DatePoll section&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;losses&quot;&gt;Losses&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Feels like the week was kind of scattershot in terms of focus. Was working on a bunch of different things at once. Drew up a whole lot of mockups&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Suffering a bit from “Shiny thing syndrome”&lt;/li&gt;
-      &lt;li&gt;Courtland from IndieHackers: “Only start building if you’re still excited about it a month later”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Losing a bit of motivation on the pirate manager. Code is super messy and working on it is becoming sort of painful.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Started reading a bunch of books but was mostly inconsistent about reading them throughout the week.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Designing Data Intensive Applications&lt;/em&gt; is really boring&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Game Design Patterns&lt;/em&gt; is a lot less boring. I’ll probably read this one more often&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;opportunities&quot;&gt;Opportunities&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Guild Manager v.2 is exciting. I’ve been thinking about it all week. The question is whether I attempt to build it on Unity v.s. React. (I’ve been leaning towards React)&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Guild Manager v.2 might be the “hobby” project that I put like 2/3 hours a week into, using ol’ reliable React.JS. (&lt;strong&gt;OR&lt;/strong&gt; - React Native?!?!?)&lt;/li&gt;
-      &lt;li&gt;Might use Unity for a smaller scale game project&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt; &lt;/th&gt;
-          &lt;th&gt;Development Speed&lt;/th&gt;
-          &lt;th&gt;Learning&lt;/th&gt;
-          &lt;th&gt;Overall Enjoyment&lt;/th&gt;
-          &lt;th&gt;Flexibility&lt;/th&gt;
-          &lt;th&gt;Total&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Unity&lt;/td&gt;
-          &lt;td&gt;3/10&lt;/td&gt;
-          &lt;td&gt;8/10&lt;/td&gt;
-          &lt;td&gt;6/10&lt;/td&gt;
-          &lt;td&gt;8/10&lt;/td&gt;
-          &lt;td&gt;25/40&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;React&lt;/td&gt;
-          &lt;td&gt;7/10&lt;/td&gt;
-          &lt;td&gt;5/10&lt;/td&gt;
-          &lt;td&gt;8/10&lt;/td&gt;
-          &lt;td&gt;6/10&lt;/td&gt;
-          &lt;td&gt;26/40&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;FlockTogether v2 is coming along nicely. I’m enjoying working on it&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;The new pivot makes a lot of sense. There’s potential for dogfooding it&lt;/li&gt;
-      &lt;li&gt;Custom calendar, Google Places integration, no sign up - just feels like a better product that delivers more value&lt;/li&gt;
-      &lt;li&gt;Get to try the new hotness: Next.js. Also a clean slate from an engineering perspective&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Game Design Patterns. This book is interesting and useful. I’m going to read the whole thing, and then try and apply some of these patterns to my first “full” Unity game.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;fast.ai is exciting. These lectures have a lot of nice hands on experience. Also I need more Python practice anyways&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Goal oriented Pomodoro app. Promising?? Check back in a week.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;miscellaneous-notes&quot;&gt;Miscellaneous Notes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Priorities, people. Priorities.
-    &lt;ol&gt;
-      &lt;li&gt;FlockTogether - gotta re-motivate David, give Joe some updates&lt;/li&gt;
-      &lt;li&gt;Fast.AI - relevant to my current job, PLUS interesting and over half way done!&lt;/li&gt;
-      &lt;li&gt;Unity Prototyping - marginally relevant to my job, also want to build some solid OOP foundations
-        &lt;ul&gt;
-          &lt;li&gt;I’d say reading &lt;em&gt;Game Design Patterns&lt;/em&gt; falls under here.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;The weekly “shinies” - Guild Manager V2, Goal-based Pomodoro&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #1</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #2</summary></entry></feed>
