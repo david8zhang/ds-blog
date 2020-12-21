@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://david8zhang.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8zhang.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-12-14T02:33:12-06:00</updated><id>https://david8zhang.github.io/ds-blog/feed.xml</id><title type="html">David’s Data World</title><subtitle>The best place for bad ideas</subtitle><entry><title type="html">Weekly Review 12</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/13/Weekly-Review-12.html" rel="alternate" type="text/html" title="Weekly Review 12" /><published>2020-12-13T00:00:00-06:00</published><updated>2020-12-13T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/13/Weekly-Review-12</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/13/Weekly-Review-12.html">&lt;h1 id=&quot;weekly-review-12&quot;&gt;Weekly Review #12&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://david8zhang.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8zhang.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-12-21T12:15:52-06:00</updated><id>https://david8zhang.github.io/ds-blog/feed.xml</id><title type="html">David’s Data World</title><subtitle>The best place for bad ideas</subtitle><entry><title type="html">Weekly Review 13</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13.html" rel="alternate" type="text/html" title="Weekly Review 13" /><published>2020-12-20T00:00:00-06:00</published><updated>2020-12-20T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13.html">&lt;h1 id=&quot;weekly-review-12&quot;&gt;Weekly Review #12&lt;/h1&gt;
+
+&lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Managed to do HIIT 3 times this week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;losses&quot;&gt;Losses&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Didn’t do 15 pull ups&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;opportunities&quot;&gt;Opportunities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;May restart FlockTogether project&lt;/li&gt;
+  &lt;li&gt;Have a few things I want to learn / experiment with&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;goals-for-this-week&quot;&gt;Goals for this week&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exercise&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Do HIIT 3 times this week&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Chrome extension development&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;extra-notes&quot;&gt;Extra Notes&lt;/h2&gt;
+
+&lt;p&gt;Exercise is starting to ramp up again. This week is also the week of Christmas so things may be slow.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #12</summary></entry><entry><title type="html">Weekly Review 12</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/13/Weekly-Review-12.html" rel="alternate" type="text/html" title="Weekly Review 12" /><published>2020-12-13T00:00:00-06:00</published><updated>2020-12-13T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/13/Weekly-Review-12</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/13/Weekly-Review-12.html">&lt;h1 id=&quot;weekly-review-12&quot;&gt;Weekly Review #12&lt;/h1&gt;
 
 &lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
 
@@ -418,59 +460,4 @@
 
 &lt;p&gt;Fast.ai lectures are sort of being pushed to the wayside now. I’m planning to prioritize getting FlockTogether off the ground, and developing Guild Manager v.2 as a casual hobby. I’d also rather pick back up where I left off with Unity development and continue honing my skills on that front&lt;/p&gt;
 
-&lt;p&gt;I’m thinking of also just doing Fast.ai whenever I have downtime at work. It’s related to my job anyways. I probably won’t have it listed as a goal on here for a while.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #4</summary></entry><entry><title type="html">Weekly Review 3</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/10/11/Weekly-Review-3.html" rel="alternate" type="text/html" title="Weekly Review 3" /><published>2020-10-11T00:00:00-05:00</published><updated>2020-10-11T00:00:00-05:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/10/11/Weekly-Review-3</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/10/11/Weekly-Review-3.html">&lt;h1 id=&quot;weekly-review-3&quot;&gt;Weekly Review #3&lt;/h1&gt;
-
-&lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Made good progress on FlockTogether v2&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Integrated Google Maps and Places API to allow for destination polling, searching for destinations&lt;/li&gt;
-      &lt;li&gt;Started setting up Firebase, implemented date poll voting back-end integration&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;losses&quot;&gt;Losses&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Missed my FlockTogether launch goal of finishing everything over the weekend&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Still didn’t read any books&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Didn’t make mockups for Guild Manager V.2&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;opportunities&quot;&gt;Opportunities&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Going to try to launch FlockTogether by end of this week, well positioned to do so&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Move is officially completed, can focus on getting back into the swing of things productivity-wise&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;goals-for-this-week-new-section&quot;&gt;Goals for this week (new section)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Launch official working prototype of FlockTogether, dogfood the app&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Draw up mockups for Guild Manager v.2&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Stretch: Finish Pirate Manager&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Stretch: Finish another lecture of fast.ai&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #3</summary></entry></feed>
+&lt;p&gt;I’m thinking of also just doing Fast.ai whenever I have downtime at work. It’s related to my job anyways. I probably won’t have it listed as a goal on here for a while.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #4</summary></entry></feed>
