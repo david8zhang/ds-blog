@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Weekly review 12/06/2020.
+description: Weekly review 12/13/2020.
 categories: [markdown]
 title: Weekly Review 12
 ---
