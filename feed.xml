@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://david8zhang.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8zhang.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-12-21T12:15:52-06:00</updated><id>https://david8zhang.github.io/ds-blog/feed.xml</id><title type="html">David’s Data World</title><subtitle>The best place for bad ideas</subtitle><entry><title type="html">Weekly Review 13</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13.html" rel="alternate" type="text/html" title="Weekly Review 13" /><published>2020-12-20T00:00:00-06:00</published><updated>2020-12-20T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13.html">&lt;h1 id=&quot;weekly-review-12&quot;&gt;Weekly Review #12&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://david8zhang.github.io/ds-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8zhang.github.io/ds-blog/" rel="alternate" type="text/html" /><updated>2020-12-28T11:26:06-06:00</updated><id>https://david8zhang.github.io/ds-blog/feed.xml</id><title type="html">David’s Data World</title><subtitle>The best place for bad ideas</subtitle><entry><title type="html">Weekly Review 14</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/27/Weekly-Review-14.html" rel="alternate" type="text/html" title="Weekly Review 14" /><published>2020-12-27T00:00:00-06:00</published><updated>2020-12-27T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/27/Weekly-Review-14</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/27/Weekly-Review-14.html">&lt;h1 id=&quot;weekly-review-14&quot;&gt;Weekly Review #14&lt;/h1&gt;
+
+&lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Published Guild Manager v.2 on expo for playtesting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;losses&quot;&gt;Losses&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Didn’t exercise at all&lt;/li&gt;
+  &lt;li&gt;Didn’t experiment with Chrome extension&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;opportunities&quot;&gt;Opportunities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Doing research for startups&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;goals-for-this-week&quot;&gt;Goals for this week&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Research problems within certain industries&lt;/li&gt;
+  &lt;li&gt;Learn Chrome extension development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;extra-notes&quot;&gt;Extra Notes&lt;/h2&gt;
+
+&lt;p&gt;Last week was pretty slow due to Christmas. I just spent all my time working on Guild Manager instead of doing the other stuff I said I was going to do. Also, I didn’t exercise at all. I get the feeling this week may be similar given it’s New Year’s. But I’m going to at least try to accomplish other goals.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #14</summary></entry><entry><title type="html">Weekly Review 13</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13.html" rel="alternate" type="text/html" title="Weekly Review 13" /><published>2020-12-20T00:00:00-06:00</published><updated>2020-12-20T00:00:00-06:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/12/20/Weekly-Review-13.html">&lt;h1 id=&quot;weekly-review-12&quot;&gt;Weekly Review #12&lt;/h1&gt;
 
 &lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
 
@@ -399,65 +429,4 @@
 
 &lt;h2 id=&quot;extra-notes&quot;&gt;Extra Notes&lt;/h2&gt;
 
-&lt;p&gt;I’m addicted to Genshin Impact. This week may be a total wash.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #5</summary></entry><entry><title type="html">Weekly Review 4</title><link href="https://david8zhang.github.io/ds-blog/markdown/2020/10/18/Weekly-Review-4.html" rel="alternate" type="text/html" title="Weekly Review 4" /><published>2020-10-18T00:00:00-05:00</published><updated>2020-10-18T00:00:00-05:00</updated><id>https://david8zhang.github.io/ds-blog/markdown/2020/10/18/Weekly-Review-4</id><content type="html" xml:base="https://david8zhang.github.io/ds-blog/markdown/2020/10/18/Weekly-Review-4.html">&lt;h1 id=&quot;weekly-review-4&quot;&gt;Weekly Review #4&lt;/h1&gt;
-
-&lt;h2 id=&quot;wins&quot;&gt;Wins&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Released Flocktogether v2&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Pushed out early beta version with destinations, date polling working&lt;/li&gt;
-      &lt;li&gt;Made some tweaks to have it be mostly mobile responsive&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finished visual mockups for Guild Manager v2&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;losses&quot;&gt;Losses&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Didn’t get to read very many books (Still haven’t read any of the Game Design Patterns book)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Completely forgot about Pirate Manager&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;opportunities&quot;&gt;Opportunities&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Can dogfood the FlockTogether beta on something for this upcoming weekend&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Design software / class diagrams for Guild Manager v.2 and get started on some implementation&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;goals-for-this-week&quot;&gt;Goals for this week&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Dogfood FlockTogether v2 and compile feedback&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finish Pirate Manager&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finish software design for Guild Manager v.2&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Stretch: Implement Guild Manager v.2 create team screen&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;extra-notes&quot;&gt;Extra Notes&lt;/h2&gt;
-
-&lt;p&gt;Fast.ai lectures are sort of being pushed to the wayside now. I’m planning to prioritize getting FlockTogether off the ground, and developing Guild Manager v.2 as a casual hobby. I’d also rather pick back up where I left off with Unity development and continue honing my skills on that front&lt;/p&gt;
-
-&lt;p&gt;I’m thinking of also just doing Fast.ai whenever I have downtime at work. It’s related to my job anyways. I probably won’t have it listed as a goal on here for a while.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #4</summary></entry></feed>
+&lt;p&gt;I’m addicted to Genshin Impact. This week may be a total wash.&lt;/p&gt;</content><author><name></name></author><category term="markdown" /><summary type="html">Weekly Review #5</summary></entry></feed>
