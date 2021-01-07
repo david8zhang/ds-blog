@@ -77,7 +77,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      7 min read
+      9 min read
     
 </span></p>
 
@@ -99,6 +99,14 @@ window.onload = wrap_img;
 <li class="toc-entry toc-h1"><a href="#existing-games-and-inspriation">Existing games and inspriation</a></li>
 <li class="toc-entry toc-h1"><a href="#guild-tycoon-my-first-failed-attempt">Guild-Tycoon, (My first, failed attempt)</a></li>
 <li class="toc-entry toc-h1"><a href="#guild-manager-v2-my-second-and-current-attempt">Guild Manager v.2, my second (and current) attempt</a></li>
+<li class="toc-entry toc-h1"><a href="#whats-in-the-game-so-far">What’s in the game so far</a>
+<ul>
+<li class="toc-entry toc-h2"><a href="#rng-rosters-and-heroes">RNG Rosters and Heroes</a></li>
+<li class="toc-entry toc-h2"><a href="#combat-system">Combat System</a></li>
+<li class="toc-entry toc-h2"><a href="#seasons-and-matches">Seasons and Matches</a></li>
+<li class="toc-entry toc-h2"><a href="#front-office">Front office</a></li>
+</ul>
+</li>
 </ul><h1 id="what-is-guild-manager">
 <a class="anchor" href="#what-is-guild-manager" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is Guild Manager?</h1>
 
@@ -184,22 +192,70 @@ window.onload = wrap_img;
 
 <p>As I’m writing this, I’ve actually been developing the game for over three months. I’m a bit of a ways from just starting out now. But I figure it might be good to document the dev process so that I don’t make the same mistakes I did with the first iteration. I’m planning on recounting every major feature I developed over the past 3 months in a series of blog posts. This one will be the first in that series, although this one is mostly just background information and motivation for why I’m even building this.</p>
 
-<p>I’m thinking as a rough outline for how I’ll document the features I developed:</p>
+<h1 id="whats-in-the-game-so-far">
+<a class="anchor" href="#whats-in-the-game-so-far" aria-hidden="true"><span class="octicon octicon-link"></span></a>What’s in the game so far</h1>
 
-<ol>
-  <li>Setting up regular season matchups</li>
-  <li>Battle system 1 - Turn based movement</li>
-  <li>Battle system 2 - Attacking, deaths, scoring</li>
-  <li>Battle system 3 - Skills</li>
-  <li>Battle system 4 - Respawning and invulnerability</li>
-  <li>Battle system 5 - Post match stats, stat gains</li>
-  <li>Playoff Bracket implementation</li>
-  <li>Offseason training camp</li>
-  <li>Contract management</li>
-  <li>Art and animation</li>
-</ol>
+<p>Since I can’t just go back in time and blog about all the features as I was developing them, I’m just going to do a quick and dirt laundry list of all of them. My aim is to fast forward to where I am now, and document all the work that I’m doing going forward.</p>
 
-<p>Anyways, stay tuned for the next blog post, where I’ll be talking about setting up the game, team rosters, and initializing regular season matchups between teams.</p>
+<p>So with that, here are all the gameplay features</p>
+
+<h2 id="rng-rosters-and-heroes">
+<a class="anchor" href="#rng-rosters-and-heroes" aria-hidden="true"><span class="octicon octicon-link"></span></a>RNG Rosters and Heroes</h2>
+
+<ul>
+  <li>8 pre-generated teams, each with their own unique logos and color scheme</li>
+  <li>Randomly generated heroes, who all have their own randomly generated stats (Attack, Defense, Speed, Magic, Health, Potential), and a randomly generated 2-D face-sprite</li>
+</ul>
+
+<h2 id="combat-system">
+<a class="anchor" href="#combat-system" aria-hidden="true"><span class="octicon octicon-link"></span></a>Combat System</h2>
+
+<ul>
+  <li>Turn-based tactical combat on a 5 x 10 arena set up as “timed” matches (timed, as in after a set number of turns). Heroes can:
+    <ul>
+      <li>attack enemy heroes, either from close up or from a distance</li>
+      <li>retaliate when being attacked, just like in Fire Emblem</li>
+      <li>use buff skills and heal ally heroes</li>
+    </ul>
+  </li>
+  <li>Critical strikes and one-hit KO’s, (though they aren’t communicated to the player yet)</li>
+</ul>
+
+<h2 id="seasons-and-matches">
+<a class="anchor" href="#seasons-and-matches" aria-hidden="true"><span class="octicon octicon-link"></span></a>Seasons and Matches</h2>
+
+<ul>
+  <li>A scoring system where every kill is worth 2 points, and an overtime system if the score is tied at the end of the match</li>
+  <li>Post match stat increases which scale based on hero potential, as well as post match performance stats like Kills, Deaths, Points
+    <ul>
+      <li>Stat increases apply to both the player’s heroes AND the CPU opponent’s heroes.</li>
+    </ul>
+  </li>
+  <li>14 match Regular season, featuring a randomly generated schedule for the player-controlled team against all the other CPU teams</li>
+  <li>Post season playoff bracket, featuring the top 4 teams in 2 best of 5 elimination rounds.</li>
+  <li>Offseason training camp where specific stats on specific heroes can be trained</li>
+  <li>A match simulation system</li>
+</ul>
+
+<h2 id="front-office">
+<a class="anchor" href="#front-office" aria-hidden="true"><span class="octicon octicon-link"></span></a>Front office</h2>
+
+<ul>
+  <li>Salary management for the roster</li>
+  <li>Signing free agents whose contracts either expired or were waived previously</li>
+  <li>Extending contracts or waiving heroes
+    <ul>
+      <li>Contract extensions operate based on how much time is left on the contract and the hero’s overall rating. Higher overall and shorter time = more expensive contract extension</li>
+    </ul>
+  </li>
+  <li>Draft where the pick order is inverse the team’s record. (Worse teams pick earlier)
+    <ul>
+      <li>Rookie contracts</li>
+    </ul>
+  </li>
+</ul>
+
+<p>I don’t have a public build of the game just yet, but hopefully that will change soon.</p>
 
   </div><a class="u-url" href="/ds-blog/markdown/2021/01/06/Guild-Manager-Devlog-1.html" hidden></a>
 </article>
