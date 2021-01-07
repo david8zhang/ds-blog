@@ -16,15 +16,15 @@ Guild manager is a tactical turn-based strategy game crossed with a fantasy spor
 
 Around my freshman year of college, I started getting super into the NBA. I had always liked basketball. But I started appreciating sort of the more mundane aspects of the sport I had never even known about before - the front office, free agency, and the offseason trades. Teams would augment their existing squads or build brand new ones by signing free agents. It was fun watching organizations succeed or fail at putting all the pieces together to build a winning basketball team. It was as though they were optimizing a machine, swapping different parts out in hopes of making something that could spit out a championship.
 
-<!-- ![img](https://sportsarefromvenus.com/wp-content/uploads/2019/09/AP19205743244243.jpg) -->
+![img](https://sportsarefromvenus.com/wp-content/uploads/2019/09/AP19205743244243.jpg)
 
 The draft was also one of my favorite things to watch. I liked the idea of young kids training, learning and growing to become future superstars. It was like watching a real life RPG. These young prospects, barely college freshmen, would level up (or in some cases, fail to level up) and gain new skills and abilities after every season.
 
-<!-- ![img](https://media4.giphy.com/media/l4FGp18irsicMWBC8/source.gif) -->
+![img](https://media4.giphy.com/media/l4FGp18irsicMWBC8/source.gif)
 
 And that was when I thought to myself, why hasn't all of this front office stuff been adapted into video games outside of the sports simulation genre? Despite being into the NBA draft and free agency, I was never really all that into the MyGM modes or fantasy sports or anything. It all seemed too overwhelming, like to know what to do I would have to study all the players' real life statistics and all that. And then my immersion in the simulation would be shattered when my super star guy in the fantasy team would end up being garbage in real life.
 
-<!-- ![img](https://usercontent.one/wp/www.newsgroove.co.uk/wp-content/uploads/2019/09/NBA-2K20-MyLeague-Worst-Teams-to-Start-With.jpg) -->
+![img](https://usercontent.one/wp/www.newsgroove.co.uk/wp-content/uploads/2019/09/NBA-2K20-MyLeague-Worst-Teams-to-Start-With.jpg)
 
 Plus, game settings can be so much more exciting than the boring ass real world. Why not have it be in a magical fantasy land or a crazy alien planet or something. I wanted to take these sim mechanics and spice it up a little by putting it in a different setting.
 
@@ -32,11 +32,11 @@ Plus, game settings can be so much more exciting than the boring ass real world.
 
 I actually think the game that all this front office stuff most reminded me of was actually Pokemon. There's trading, battling, and training in Pokemon, much like trading, playing games, and player development in sports. There's also sort of "drafting" in that you "draft" a new pokemon when you catch it. And there's the team building / syngerizing aspect of it as well.
 
-<!-- ![img](https://i.ytimg.com/vi/hkV4UmFTNiw/maxresdefault.jpg) -->
+![img](https://i.ytimg.com/vi/hkV4UmFTNiw/maxresdefault.jpg)
 
 But it's not _really_ the same. Unless you're doing nuzlocke, Pokemon is mostly permanent - your mons never grow old and level _down_. You have a ton of control over who you can "draft" unlike in sports. It's the same with trading. Maybe it's just my personal experience, but trading to make your team "better" is sort of pointless if you're just playing the story mode, since the story is so easy. And because it's so easy, the need for having a super strong team aren't really there.
 
-<!-- ![img](https://i.ytimg.com/vi/z30vEtLo7ag/maxresdefault.jpg) -->
+![img](https://i.ytimg.com/vi/z30vEtLo7ag/maxresdefault.jpg)
 
 # Guild-Tycoon, (My first, failed attempt)
 
@@ -48,7 +48,7 @@ After several months of development, I pumped out [this](https://github.com/davi
 
 I encountered a variety of problems. For starters, the game just wasn't very fun. Turns out the pokemon turn based battling system, without all the bells and whistles and fun pokemon designs, was pretty boring. The free agency stuff, with its unintuitive, spreadsheet-like UI was this overcomplicated mess that was not much fun to look at. Ironically, that was one of my main complaints with 2k's MyGM UI. Without any UI flair or polish, it didn't much feel like a game, more like an accounting job.
 
-<!-- ![img](https://thumbs.gfycat.com/CheerfulPopularAmoeba-small.gif) -->
+![img](https://thumbs.gfycat.com/CheerfulPopularAmoeba-small.gif)
 
 From a technical perspective. I bit off a bit more than I could chew when trying to implement all the Free Agency, Trading, and Drafting functionality. There were so many bugs and problems with all the mechanics I had tried to cram in. I didn't put enough thought into how all the classes and modules would be organized, so the code became spaghetti and hard to modify.
 
