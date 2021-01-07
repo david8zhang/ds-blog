@@ -96,6 +96,7 @@ So with that, here are all the gameplay features
   - retaliate when being attacked, just like in Fire Emblem
   - use buff skills and heal ally heroes
 - Critical strikes and one-hit KO's, (though they aren't communicated to the player yet)
+- Unique animations for ranged, melee, and magic attacks
 
 ## Seasons and Matches
 
