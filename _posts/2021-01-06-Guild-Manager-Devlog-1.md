@@ -78,4 +78,17 @@ For the second attempt, I've made a few changes:
 
 As I'm writing this, I've actually been developing the game for over three months. I'm a bit of a ways from just starting out now. But I figure it might be good to document the dev process so that I don't make the same mistakes I did with the first iteration. I'm planning on recounting every major feature I developed over the past 3 months in a series of blog posts. This one will be the first in that series, although this one is mostly just background information and motivation for why I'm even building this.
 
+I'm thinking as a rough outline for how I'll document the features I developed:
+
+1. Setting up regular season matchups
+2. Battle system 1 - Turn based movement
+3. Battle system 2 - Attacking, deaths, scoring
+4. Battle system 3 - Skills
+5. Battle system 4 - Respawning and invulnerability
+6. Battle system 5 - Post match stats, stat gains
+7. Playoff Bracket implementation
+8. Offseason training camp
+9. Contract management
+10. Art and animation
+
 Anyways, stay tuned for the next blog post, where I'll be talking about setting up the game, team rosters, and initializing regular season matchups between teams.
