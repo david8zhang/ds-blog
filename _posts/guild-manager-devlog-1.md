@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: Building a management sim x Fire Emblem game using React Native
+description: Building a Fire Emblem + management sim using React Native
 categories: [markdown]
-title: Guild Manager - Devlog 1 & Introduction
+title: Guild Manager Devlog 1
 ---
 
 # What is Guild Manager?
@@ -77,3 +77,5 @@ For the second attempt, I've made a few changes:
 - There will be "announcers" for matches and also outside of matches to add some added flair and personality to all the things that are happening.
 
 As I'm writing this, I've actually been developing the game for over three months. I'm a bit of a ways from just starting out now. But I figure it might be good to document the dev process so that I don't make the same mistakes I did with the first iteration. I'm planning on recounting every major feature I developed over the past 3 months in a series of blog posts. This one will be the first in that series, although this one is mostly just background information and motivation for why I'm even building this.
+
+Anyways, stay tuned for the next blog post, where I'll be talking about setting up the game, team rosters, and initializing regular season matchups between teams.
