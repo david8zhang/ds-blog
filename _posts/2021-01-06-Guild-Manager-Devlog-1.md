@@ -78,17 +78,42 @@ For the second attempt, I've made a few changes:
 
 As I'm writing this, I've actually been developing the game for over three months. I'm a bit of a ways from just starting out now. But I figure it might be good to document the dev process so that I don't make the same mistakes I did with the first iteration. I'm planning on recounting every major feature I developed over the past 3 months in a series of blog posts. This one will be the first in that series, although this one is mostly just background information and motivation for why I'm even building this.
 
-I'm thinking as a rough outline for how I'll document the features I developed:
+# What's in the game so far
 
-1. Setting up regular season matchups
-2. Battle system 1 - Turn based movement
-3. Battle system 2 - Attacking, deaths, scoring
-4. Battle system 3 - Skills
-5. Battle system 4 - Respawning and invulnerability
-6. Battle system 5 - Post match stats, stat gains
-7. Playoff Bracket implementation
-8. Offseason training camp
-9. Contract management
-10. Art and animation
+Since I can't just go back in time and blog about all the features as I was developing them, I'm just going to do a quick and dirt laundry list of all of them. My aim is to fast forward to where I am now, and document all the work that I'm doing going forward.
 
-Anyways, stay tuned for the next blog post, where I'll be talking about setting up the game, team rosters, and initializing regular season matchups between teams.
+So with that, here are all the gameplay features
+
+## RNG Rosters and Heroes
+
+- 8 pre-generated teams, each with their own unique logos and color scheme
+- Randomly generated heroes, who all have their own randomly generated stats (Attack, Defense, Speed, Magic, Health, Potential), and a randomly generated 2-D face-sprite
+
+## Combat System
+
+- Turn-based tactical combat on a 5 x 10 arena set up as "timed" matches (timed, as in after a set number of turns). Heroes can:
+  - attack enemy heroes, either from close up or from a distance
+  - retaliate when being attacked, just like in Fire Emblem
+  - use buff skills and heal ally heroes
+- Critical strikes and one-hit KO's, (though they aren't communicated to the player yet)
+
+## Seasons and Matches
+
+- A scoring system where every kill is worth 2 points, and an overtime system if the score is tied at the end of the match
+- Post match stat increases which scale based on hero potential, as well as post match performance stats like Kills, Deaths, Points
+  - Stat increases apply to both the player's heroes AND the CPU opponent's heroes.
+- 14 match Regular season, featuring a randomly generated schedule for the player-controlled team against all the other CPU teams
+- Post season playoff bracket, featuring the top 4 teams in 2 best of 5 elimination rounds.
+- Offseason training camp where specific stats on specific heroes can be trained
+- A match simulation system
+
+## Front office
+
+- Salary management for the roster
+- Signing free agents whose contracts either expired or were waived previously
+- Extending contracts or waiving heroes
+  - Contract extensions operate based on how much time is left on the contract and the hero's overall rating. Higher overall and shorter time = more expensive contract extension
+- Draft where the pick order is inverse the team's record. (Worse teams pick earlier)
+  - Rookie contracts
+
+I don't have a public build of the game just yet, but hopefully that will change soon.
